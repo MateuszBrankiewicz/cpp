@@ -1,6 +1,0 @@
-Jakiego typu dane przechowuje zmienna typu float w języku Python?
-A) Liczby całkowite
-B) Liczby rzeczywiste
-C) Ciągi znaków
-D) Wartości logiczne
-b
