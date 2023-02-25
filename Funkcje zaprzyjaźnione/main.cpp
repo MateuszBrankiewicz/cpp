@@ -8,4 +8,5 @@ void sedzia(Punkt pkt, Prostokat p){
 int main(){
     Punkt pk1("A",3,1);
     Prostokat p1("Prostokat",0,0,6,4);
+    return 0;
 }
